@@ -94,3 +94,11 @@ Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
+Script
+WindowsNoEditor
+DerivedDataCache
+Build
+Binaries
+Saved
+x64
+Intermediate
